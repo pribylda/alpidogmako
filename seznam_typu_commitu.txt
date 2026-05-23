@@ -1,0 +1,46 @@
+SEZNAM TYPŮ COMMITŮ (CONVENTIONAL COMMITS)
+=========================================
+
+Tento seznam slouží jako rychlá nápověda pro psaní profesionálních a přehledných zpráv v Gitu (commit messages).
+
+ZÁKLADNÍ TYPY (PREFIXY):
+------------------------
+feat:     (Feature)    - Přidání nové funkce, vlastnosti nebo komponenty webu/aplikace.
+                       Příklad: feat: add responsive navigation menu
+
+fix:      (Bug Fix)    - Oprava chyby v kódu, která způsobovala nesprávné chování.
+                       Příklad: fix: correct image path on profile page
+
+refactor: (Refactoring)- Úprava kódu za účelem jeho vyčištění nebo optimalizace.
+                       Z pohledu uživatele se nic nemění, kód je ale udržitelnější.
+                       Příklad: refactor: extract header HTML into php include
+
+docs:     (Documentation)- Úpravy v textových souborech, dokumentaci nebo komentářích.
+                       Příklad: docs: update setup instructions in README
+
+style:    (Formatting) - Změny, které nemění smysl kódu (formátování, mezery, středníky, CSS).
+                       Příklad: style: change primary button background to dark blue
+
+chore:    (Maintenance)- Běžná údržba okolo projektu, která nemění samotný kód aplikace.
+                       Nastavení repozitáře, balíčků, aktualizace závislostí, .gitignore.
+                       Příklad: chore: add professional gitignore file
+
+POKROČILÉ TYPY:
+---------------
+perf:     (Performance)- Změna kódu zaměřená čistě na zlepšení rychlosti a výkonu.
+                       Příklad: perf: optimize image loading speed
+
+test:     (Testing)    - Přidání nových testů nebo oprava stávajících testovacích skriptů.
+                       Příklad: test: add validation checks for contact form
+
+ci:       (Continuous Integration) - Úprava konfigurace pro automatizaci (např. GitHub Actions, GitLab CI).
+                       Příklad: ci: configure automated FTP deployment script
+
+
+3 ZLATÁ PRAVIDLA PROFI COMMITŮ:
+--------------------------------
+1. Pište v angličtině: Je to univerzální jazyk IT světa. Pomůže vám to v budoucím portfoliu.
+2. Používejte rozkazovací způsob (Imperative mood): Zpráva má říkat, co ten commit *dělá* po nasazení, ne co jste udělali v minulosti.
+   - SPRÁVNĚ: "fix: resolve contact form crash" (Oprav pád kontaktního formuláře)
+   - ŠPATNĚ:  "fixed contact form" (Opravil jsem kontaktní formulář)
+3. Jeden commit = jedna věc: Nemíchejte opravu překlepu v patičce a přidání nové fotky psa do jednoho uložení. Rozdělte to na dva samostatné commity.
