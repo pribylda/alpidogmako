@@ -1,0 +1,20 @@
+# --- OS generované soubory ---
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# --- Vývojářské editory (VS Code, PhpStorm) ---
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# --- Logy a cache ---
+*.log
+npm-debug.log*
+
+# --- Budoucí tajné soubory (hesla k DB) ---
+.env
+config.local.php
