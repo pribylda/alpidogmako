@@ -1,29 +1,29 @@
 # Alpidog Mako 🐾
 
-Oficiální webová prezentace rodinné chovatelské stanice stafordšírských bulteriérů z Plzně. 
+Official website of a family-run Staffordshire Bull Terrier breeding station based in Plzeň, Czech Republic. 
 
-Web slouží k představení chovné stanice, informování o plánovaných i proběhlých odchovech štěňat a poskytnutí jednoduchého kontaktu pro zájemce.
+The website serves to introduce the breeding station, provide information about planned and past litters, and offer a simple way for prospective owners to get in touch.
 
-## 🚀 Technologie (Tech Stack)
+## 🚀 Tech Stack
 * **Frontend:** HTML5, CSS3
 * **Backend:** PHP 8
-* **Architektura:** Modulární struktura pomocí PHP includes (sdílená hlavička a patička)
-* **Server:** Apache (optimalizováno pomocí `.htaccess` pro čisté URL adresy a vynucení HTTPS)
+* **Architecture:** Modular structure using PHP includes (shared header and footer)
+* **Server:** Apache (optimized via `.htaccess` for clean URLs and HTTPS enforcement)
 
-## ⚙️ Lokální spuštění (Pro vývojáře)
-Pro spuštění projektu na lokálním prostředí:
-1. Nainstaluj [XAMPP](https://www.apachefriends.org/).
-2. Naklonuj tento repozitář do složky `C:\xampp\htdocs\alpidogmako`.
-3. V XAMPP Control Panelu zapni modul **Apache**.
-4. V prohlížeči otevři adresu: `http://localhost/alpidogmako`
+## ⚙️ Local Setup (For Developers)
+To run the project locally:
+1. Install [XAMPP](https://www.apachefriends.org/).
+2. Clone this repository into the `C:\xampp\htdocs\alpidogmako` directory.
+3. Start the **Apache** module in the XAMPP Control Panel.
+4. Open `http://localhost/alpidogmako` in your browser.
 
-## 📂 Základní struktura
-* `/includes` - Sdílené PHP komponenty (header.php, footer.php)
-* `/css` - Styly webu
-* `/images` - Fotografie a grafické podklady
-* `/odchovy` - Záznamy o jednotlivých vrzích
-* `index.php` - Hlavní vstupní bod aplikace
-* `.htaccess` - Pravidla pro routování a bezpečnost
+## 📂 Project Structure
+* `/includes` - Shared PHP components (header.php, footer.php)
+* `/css` - Website stylesheets
+* `/images` - Images and graphical assets
+* `/odchovy` - Records of individual litters
+* `index.php` - Main entry point of the application
+* `.htaccess` - Routing and security rules
 
-## 👨‍💻 Autor
-**David Přibyl** - Vývoj a správa webu
+## 👨‍💻 Author
+**David Přibyl** - Website development and maintenance
