@@ -32,7 +32,7 @@
     </script>
 </head>
 <body>
-    <!-- header (přidat) -->
+    <?php include 'includes/header.php'; ?>
     <main>
         <!-- úvodní obrázek (přidat) -->
         <?php include 'includes/obsah-o-nas.php'; ?>
