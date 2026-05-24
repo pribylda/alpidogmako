@@ -1,6 +1,6 @@
 <header class="header">
     <nav class="navbar">
-        <a href="/" class="menulogo"><img src="" alt="logo"></a> #přidat cestu k menu logu
+        <a href="/" class="menulogo"><img src="" alt="logo"></a> <!-- přidat cestu k menu logu -->
         <ul class="nav-links">
             <li><a href="">Úvod</a></li>
             <li><a href="">Instagram</a></li>
