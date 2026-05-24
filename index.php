@@ -40,7 +40,7 @@
         <div class="mezera"></div>
         <!-- contact-page (přidat) -->
     </main>
-    <!-- footer (přidat) -->
-     <!-- skripty (přidat) -->
+    <?php include 'includes/footer.php'; ?>
+    <!-- skripty (přidat) -->
 </body>
 </html>
