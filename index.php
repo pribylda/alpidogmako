@@ -34,7 +34,10 @@
 <body>
     <?php include 'includes/header.php'; ?>
     <main>
-        <!-- úvodní obrázek (přidat) -->
+        <div class="hero-container">
+            <img src="" alt="Chvoná stanice" class="hero-image"> <!-- přidat cestu k plocha obrázku -->
+            <h1 class="hero-text animate-up">Chovná stanice</h1>
+        </div>
         <?php include 'includes/obsah-o-nas.php'; ?>
         <!-- dog-grid (přidat) -->
         <div class="mezera"></div>
