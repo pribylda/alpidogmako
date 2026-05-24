@@ -36,6 +36,11 @@
     <main>
         <!-- úvodní obrázek (přidat) -->
         <?php include 'includes/obsah-o-nas.php'; ?>
+        <!-- dog-grid (přidat) -->
+        <div class="mezera"></div>
+        <!-- contact-page (přidat) -->
     </main>
+    <!-- footer (přidat) -->
+     <!-- skripty (přidat) -->
 </body>
 </html>
