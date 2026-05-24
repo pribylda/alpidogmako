@@ -32,6 +32,10 @@
     </script>
 </head>
 <body>
-    
+    <!-- header (přidat) -->
+    <main>
+        <!-- úvodní obrázek (přidat) -->
+        <?php include 'includes/obsah-o-nas.php'; ?>
+    </main>
 </body>
 </html>
