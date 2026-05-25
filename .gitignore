@@ -18,3 +18,4 @@ npm-debug.log*
 # --- Budoucí tajné soubory (hesla k DB) ---
 .env
 config.local.php
+config.php
