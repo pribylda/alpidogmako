@@ -39,7 +39,7 @@
             <h1 class="hero-text animate-up">Chovná stanice</h1>
         </div>
         <?php include 'includes/obsah-o-nas.php'; ?>
-        <!-- dog-grid (přidat) -->
+        <?php include 'includes/dog-grid.php'; ?>
         <div class="mezera"></div>
         <!-- contact-page (přidat) -->
     </main>
