@@ -44,6 +44,7 @@
         <?php include 'includes/contact-page.php'; ?>
     </main>
     <?php include 'includes/footer.php'; ?>
-    <!-- skripty (přidat) -->
+    <script src="/js/animated-text.js"></script>
+    <script src="/js/burger-menu.js"></script>
 </body>
 </html>
