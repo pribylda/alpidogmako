@@ -41,7 +41,7 @@
         <?php include 'includes/obsah-o-nas.php'; ?>
         <?php include 'includes/dog-grid.php'; ?>
         <div class="mezera"></div>
-        <!-- contact-page (přidat) -->
+        <?php include 'includes/contact-page.php'; ?>
     </main>
     <?php include 'includes/footer.php'; ?>
     <!-- skripty (přidat) -->
