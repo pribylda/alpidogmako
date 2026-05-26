@@ -8,7 +8,7 @@
     <meta name="keywords" content="stafordšírský bulteriér, chovná stanice, štěňata, psi, Alpidog Mako, Alpi, Alpidog, Markéta Přibylová, StaffBull, Plzeň">
     <meta name="robots" content="index, follow">
     <title>Alpidog Mako Chovná stanice</title>
-    <link rel="icon" href="favicon.ico" type="image/x-icon"> <!-- přidat cestu k ikoně -->
+    <link rel="icon" href="" type="image/x-icon"> <!-- přidat cestu k ikoně -->
     <!-- styly css (přidat) -->
     <link rel="stylesheet" href="">
     <!-- Google tag (gtag.js) -->
